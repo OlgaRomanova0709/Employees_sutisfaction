@@ -4,9 +4,9 @@
 
 ## Questions to uncover:
 
-**Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?**
+**1)Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?**
 
-**Are younger employees resigning due to some kind of dissatisfaction? What about older employees?**
+**2)Are younger employees resigning due to some kind of dissatisfaction? What about older employees?**
 
 In this guided project, we experienced that in order to extract any meaningful insights from our data, we had to perform many data cleaning tasks. In order to create one visualization (and not even the final one), we completed the following tasks:
 
